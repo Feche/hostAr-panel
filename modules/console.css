@@ -1,0 +1,96 @@
+.console-container {
+	position: relative;
+	
+	padding: 2em;
+	padding-top: 1em;
+}
+
+#console-text {
+	position: relative;
+	
+	width: 60em;
+	height: 30em;
+	
+	font-size: 0.75em;
+	font-family: TerminalVector;
+	padding: 1em;
+	
+	background-color: black;
+	color: white;
+	
+	overflow: auto;
+	white-space: normal;
+	
+	-webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.5);
+	-moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.5);
+	box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.5);
+}
+
+#console-players {
+	position: relative;
+	
+	width: 60em;
+	
+	margin-top: 1em;
+	
+	font-size: 0.75em;
+	font-family: TerminalVector;
+	padding: 0.5em;
+	padding-left: 1em;
+	
+	background-color: black;
+	color: white;
+	
+	overflow: auto;
+	white-space: normal;
+	
+	-webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.5);
+	-moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.5);
+	box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.5);
+}
+
+#console-flexbox {
+	display: flex;
+	
+	width: 21em;
+	
+	margin: auto;
+	margin-top: 1.5em;
+}
+
+#command-button {
+	margin-left: 0.5em;
+	
+	padding: 0.2em;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	
+	background-color: #ddd;
+	
+	cursor: pointer;
+	
+	transition: all 500ms linear;
+	
+	border: solid 1px #aaa;
+}
+
+#command-button:hover {
+	background-color: #eee;
+} 
+
+@media only screen and (max-width: 980px) {
+	.console-container {
+		margin-top: 0em;
+		padding: 0;
+		margin-bottom: 1em;
+	}
+	
+	#console-text {
+		width: 32em;
+		height: 38em;
+	}
+	
+	#console-players {
+		width: 32em;
+	}
+}
