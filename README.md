@@ -6,4 +6,4 @@ Desktop & mobile compatible.
 Demo web
 http://192.171.18.227/panel/ - demo/demo
 
-Languages: HTML, CSS, PHP, JavaScript, BASH (Linux) & MySQL - Frameworks: jQuery, Ajax - Servers: nginx, mysql, dns
+Languages: HTML, CSS, PHP, JavaScript, BASH (Linux) & MySQL - Frameworks: jQuery, Ajax - Software: nginx, mysql, dns
