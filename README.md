@@ -3,7 +3,6 @@ Web control panel for game-server hosting, with features like start/stop gameser
 hostAr was my first project, with this project I learned CSS & PHP.
 Desktop & mobile compatible.
 
-Demo web
-http://192.171.18.227/panel/ - demo/demo
+https://panel.feche.ar/ - demo/demo
 
 Languages: HTML, CSS, PHP, JavaScript, BASH (Linux) & MySQL - Frameworks: jQuery, Ajax - Software: nginx, mysql, dns
