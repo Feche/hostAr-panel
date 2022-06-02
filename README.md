@@ -5,4 +5,4 @@ Desktop & mobile compatible.
 
 https://panel.feche.ar/ - demo/demo
 
-Languages: HTML, CSS, PHP, JavaScript, BASH (Linux) & MySQL - Frameworks: jQuery, Ajax - Software: nginx, mysql, dns
+Languages: HTML, CSS, PHP, JavaScript, BASH (Linux) & MySQL - Libraries: jQuery, Ajax - Software: nginx, mysql, dns
